@@ -1,0 +1,16 @@
+.sidebar {
+  width: 240px;
+  min-height: 100vh;
+  border-right: 1px solid #dee2e6;
+
+  .sidebar-brand {
+    text-decoration: none;
+  }
+
+  .nav-link {
+    border-radius: 6px;
+    padding: 0.5rem 0.75rem;
+    display: flex;
+    align-items: center;
+  }
+}
